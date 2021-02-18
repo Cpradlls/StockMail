@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>StockMail</name>
+	<displayName><![CDATA[StockMail]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[StockMail envoie un email automatiquement au gestionnaire du site à chaque fois que le stock d\'un produit est modifié.]]></description>
+	<author><![CDATA[C.Pradlls]]></author>
+	<tab><![CDATA[emailing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
